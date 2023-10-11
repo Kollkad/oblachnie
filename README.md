@@ -1,0 +1,2 @@
+# oblachnie
+tehnologii
